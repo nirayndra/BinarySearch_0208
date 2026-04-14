@@ -52,5 +52,7 @@ void bubbleSortArray()
 
 void display()
 {
-    
+    cout << "\n=============================================\n";
+    cout << "\n====Element Array Setelah Diurutkan (ASC)====\n";
+    cout << "\n=============================================\n";
 }
